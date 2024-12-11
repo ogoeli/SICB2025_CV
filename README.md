@@ -9,4 +9,4 @@ Before the workshop we wanted to provide some materials to help get folks famili
 
 *   Python & Google Colab tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mattsmiths/SICBCV2025/blob/main/Python_Intro_SICB_2025.ipynb)
 *   What is Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-*   Python Free Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.w3schools.com/python/)
+*   Python Free Tutorial: https://www.w3schools.com/python/
