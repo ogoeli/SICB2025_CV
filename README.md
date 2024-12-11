@@ -1,7 +1,7 @@
 # SICB 2025: Computer Vision Workshop
 ## Overview
 
-Welcome to the SICB Computer Vision Workshop repository! We're looking forward to meeting you all and working through some key principals and examples in the class together. 
+Welcome to the Society for Integrative and Comparative Biology (SICB) Computer Vision Workshop repository! We're looking forward to meeting you all and working through some key principals and examples in the class together. 
 
 
 ## Pre-Workshop Python & Google Colab tutorials:
