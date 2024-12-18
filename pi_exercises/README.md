@@ -14,14 +14,25 @@ python3 -m venv sicb_2025
 source sicb_2025/bin/activate
 pip3 install opencv-contrib-python
 ```
-You can then clone the repository with these exercises to your pi with this command:
 
+You can then clone the repository with these exercises to your pi with this command:
 ```bash
+cd ~/Documents
 git clone https://github.com/Crall-Lab/SICB2025_CV.git
 ```
 
+Then navigate into the repository you just cloned, and confirm the 
+```bash
+cd SICB2025_CV
+ls
+```
+
+
 ## Demos
 ### Webcam preview
+```bash
+python3 ./pi_exercise/webcam_preview.py
+```
 ### Motion tracking
 ### Color-based tracking
 ### ArUco tracking
