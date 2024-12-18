@@ -26,3 +26,6 @@ git clone https://github.com/Crall-Lab/SICB2025_CV.git
 ### Color-based tracking
 ### ArUco tracking
 
+## Bonus exercise
+### tracking a red, moving object
+### Use motion detection to trigger video capture
