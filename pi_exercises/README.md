@@ -26,7 +26,10 @@ Then navigate into the repository you just cloned, and confirm the
 cd SICB2025_CV
 ls
 ```
-
+Now navigate into the pi_exercises subdirectory
+```bash
+cd pi_exercises
+```
 
 ## Demos
 ### Webcam preview
