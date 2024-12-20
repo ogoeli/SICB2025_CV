@@ -23,7 +23,7 @@ cd ~/Documents
 git clone https://github.com/Crall-Lab/SICB2025_CV.git
 ```
 
-Then navigate into the repository you just cloned, and confirm the 
+Then navigate into the repository you just cloned, and confirm the contents:
 ```bash
 cd SICB2025_CV
 ls
