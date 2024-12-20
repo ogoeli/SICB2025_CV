@@ -35,20 +35,22 @@ cd pi_exercises
 
 ## Demos
 
+
 First, we will connect to the webcam and make sure it's working properly!
 ### Webcam preview
 ```bash
 python3 webcam_preview.py
 ```
 
-Next, we will test out some motion-based tracking, using pixel-level difference thresholding
+
 ### Motion tracking
+Next, we will test out some motion-based tracking, using pixel-level difference thresholding
 ```bash
 python3 motion_tracking_demo.py
 ```
 
-Next, we will implement the same kind of color thresholding we performed 
 ### Color-based tracking
+Next, we will implement the same kind of color thresholding we performed 
 ```bash
 python3 color_tracking_demo.py
 ```
@@ -62,12 +64,14 @@ python3 aruco_live_demo.py
 ## Bonus exercise
 If you want to test out what you've learned, try writing either or both of the following scripts (either during the workshop, or on your own time):
 
+
 First, try tracking a moving, red object by making a new script called 'track_moving_red_obj.py':
 ### tracking a red, moving object
 ```bash
 python3 track_moving_red_obj.py
 ```
 *Hint: this will require integrating parts of the color and motion tracking scripts*
+
 
 
 Second, make a script that records a brief (10 second) video to the Documents folder, called 'motion_capture.py':
