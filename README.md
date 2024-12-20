@@ -10,3 +10,9 @@ Before the workshop we wanted to provide some materials to help get folks famili
 *   Python & Google Colab tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Crall-Lab/SICB2025_CV/blob/main/Python_Intro_SICB_2025.ipynb)
 *   What is Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 *   Python Free Tutorial: https://www.w3schools.com/python/
+
+
+## Workshop activities
+
+### Part 1: Classical Computer Vision
+* Intro to Classical CV in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Crall-Lab/SICB2025_CV/blob/main/ClassicalCV_Intro_Part.ipynb)
