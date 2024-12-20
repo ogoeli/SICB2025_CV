@@ -15,4 +15,5 @@ Before the workshop we wanted to provide some materials to help get folks famili
 ## Workshop activities
 
 ### Part 1: Classical Computer Vision
+* [Intro slides[(https://docs.google.com/presentation/d/1t7biQd1oQyQdRxmRBFH_isLmmbE3i0-U4gpYH14t9ME/edit?usp=sharing)
 * Intro to Classical CV in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Crall-Lab/SICB2025_CV/blob/activity_testing/ClassicalCV_Intro_Part.ipynb)
