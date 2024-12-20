@@ -65,8 +65,8 @@ python3 aruco_live_demo.py
 If you want to test out what you've learned, try writing either or both of the following scripts (either during the workshop, or on your own time):
 
 
-First, try tracking a moving, red object by making a new script called 'track_moving_red_obj.py':
 ### tracking a red, moving object
+First, try tracking a moving, red object by making a new script called 'track_moving_red_obj.py':
 ```bash
 python3 track_moving_red_obj.py
 ```
@@ -74,8 +74,8 @@ python3 track_moving_red_obj.py
 
 
 
-Second, make a script that records a brief (10 second) video to the Documents folder, called 'motion_capture.py':
 ### Use motion detection to trigger video capture
+Second, make a script that records a brief (10 second) video to the Documents folder, called 'motion_capture.py':
 ```bash
 python3 track_moving_red_obj.py
 ```
