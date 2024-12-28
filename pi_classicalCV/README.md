@@ -9,6 +9,13 @@ These exercises assume you have:
 - A generic USB webcam connected.
 - openCV for python installed and active in your environment. For the exercises here, we created a virtual enviornment and installed using the following commands:
 
+The pis used for the workshop have been set up with a simple installation:
+```bash
+python3 -m venv sicb_2025
+source sicb_2025/bin/activate
+pip3 install opencv-contrib-python
+```
+
 For the workshop, we will connect to your Raspberry Pi devices using [Raspberry Pi connect](https://connect.raspberrypi.com/sign-in), a simple remote desktop application for Raspberry Pis. Login info will be provided the day of the workshop.
 
 If you need to sign this up on a headless pi, you can use the following commands:
@@ -18,11 +25,6 @@ rpi-connect on
 rpi-connect signin
 ```
 
-```bash
-python3 -m venv sicb_2025
-source sicb_2025/bin/activate
-pip3 install opencv-contrib-python
-```
 
 You can then clone the repository with these exercises to your pi with this command:
 ```bash
