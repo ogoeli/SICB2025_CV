@@ -11,6 +11,13 @@ These exercises assume you have:
 
 For the workshop, we will connect to your Raspberry Pi devices using [Raspberry Pi connect](https://connect.raspberrypi.com/sign-in), a simple remote desktop application for Raspberry Pis. Login info will be provided the day of the workshop.
 
+If you need to sign this up on a headless pi, you can use the following commands:
+```bash
+sudo apt install rpi-connect
+rpi-connect on
+rpi-connect signin
+```
+
 ```bash
 python3 -m venv sicb_2025
 source sicb_2025/bin/activate
