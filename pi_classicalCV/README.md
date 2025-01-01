@@ -39,7 +39,7 @@ ls
 ```
 Now navigate into the pi_exercises subdirectory
 ```bash
-cd pi_exercises
+cd pi_classicalCV
 ```
 
 ## Demos
