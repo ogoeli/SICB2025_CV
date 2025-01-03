@@ -2,6 +2,6 @@
 
 ## Part 2: Classical Computer Vision
 * **Activities:**
-  1. How to train your model [exercises](https://github.com/Crall-Lab/SICB2025_CV/deepLearningNotebooks/1_training)
+  1. How to train your model [exercises](/1_training/)
   2. Let it fly (deploy on edge device) [exercises](https://github.com/Crall-Lab/SICB2025_CV/pi_deepLearning)
   3. Analysis [exercises](https://github.com/Crall-Lab/SICB2025_CV/deepLearningNotebooks/3_analysis)
