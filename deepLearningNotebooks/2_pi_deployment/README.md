@@ -20,7 +20,7 @@ sudo apt install guvcview uvcdynctrl
 
 Clone most recent github into a new folder [ to not overwrite any changes you may have made ]
 ```bash
-git clone https://github.com/Crall-Lab/DigitalEcology.git /home/pi/DigitalEcologyDL/
+git clone https://github.com/Crall-Lab/SICB2025_CV.git /home/pi/SICB2025_CV/
 ```
 
 Check camera acquisition parameters
