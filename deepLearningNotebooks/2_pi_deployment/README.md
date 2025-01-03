@@ -33,43 +33,44 @@ guvcview
 
 Running an image classifier [ mobilenetv3 trained on ImageNet dataset ]
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
 python3 streamDLmodel.py
 ```
 
 Change the resolution of the video stream 
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
 python3 streamDLmodel.py -r medium
 ```
 
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
 python3 streamDLmodel.py -r large
 ```
 
 Running an image object detection model [ efficientDet1 trained on COCO dataset ]
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
 python3 streamDLmodel.py -d
 ```
 
 Running an image object detection model [ efficientDet1 trained on COCO dataset ]
 and update the detection threshold to see how accuracy changes
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
 python3 streamDLmodel.py -d -t 0.75
 ```
 
 Running an image object detection model [ efficientDet1 trained on birds from iNaturalist ]
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
 python3 streamDLmodel.py -d -b
 ```
 
 Running an image object detection model over a prerecorded video [ efficientDet1 trained on birds from iNaturalist ]
 ```bash
-cd /home/pi/SICB2025_CV/pi_deepLearning/
+cd /home/pi/SICB2025_CV/deepLearningNotebooks/2_pi_deployment/
+
 python3 streamDLmodel.py -d -b -v
 ```
 # Images and detection data are saved to /home/pi/Documents/detections/$date/
